@@ -2,8 +2,6 @@ import React from 'react'
 
 export const Content = () => {
   return (
-    <>
-    <h1>Named Component</h1>
-    </>
+    <div>Content</div>
   )
 }
